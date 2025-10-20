@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+ <DocumentVersion>1.00</DocumentVersion>
+ </Header>
+<MessageType>AllOrdersReport</MessageType>
+<Message>
+   <Order>
+      <AmazonOrderID>402-6167668-2853134</AmazonOrderID>
+      <MerchantOrderID>402-6167668-2853134</MerchantOrderID>
+      <PurchaseDate>2025-10-19T19:43:23+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:53+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Sharjah</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55733831542602</AmazonOrderItemCode>
+        <ASIN>B0CH3HN88N</ASIN>
+        <SKU>OTC-26214139</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Hair Mask Argan Oil Coconut Oil Essence for Dry Damaged Hair All Hair Types 16.90 Fl oz 500m</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">5.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>5.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-4917404-7293923</AmazonOrderID>
+      <MerchantOrderID>171-4917404-7293923</MerchantOrderID>
+      <PurchaseDate>2025-10-19T19:15:45+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:09+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Ajman</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55732680206442</AmazonOrderItemCode>
+        <ASIN>B0CMGHGXZ1</ASIN>
+        <SKU>OTC-01900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino EMBEAUTY Premium Touch Hair Mask treatment, 230g</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">42.43</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">5.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>5.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>408-1910126-9626721</AmazonOrderID>
+      <MerchantOrderID>408-1910126-9626721</MerchantOrderID>
+      <PurchaseDate>2025-10-19T19:10:43+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:11+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Al Ain</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55732149742642</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>2</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">66.06</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">6.67</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>6.67</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-2610714-9665907</AmazonOrderID>
+      <MerchantOrderID>171-2610714-9665907</MerchantOrderID>
+      <PurchaseDate>2025-10-19T17:55:44+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:01+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Ajman</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55731286402642</AmazonOrderItemCode>
+        <ASIN>B01DDW75EA</ASIN>
+        <SKU>OTC-26214074</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>AXIS-Y Complete No-Stress Physical Sunscreen V3 50ml - SPF 50 Mineral Sunscreen with 2% Niacinamide, Zinc Oxide Sunblock for Broad Spectrum Sun Care -</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">64.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">1.25</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>1.25</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>403-6964412-4425959</AmazonOrderID>
+      <MerchantOrderID>403-6964412-4425959</MerchantOrderID>
+      <PurchaseDate>2025-10-19T17:55:41+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:22+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55730611502762</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">33.03</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">0.67</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>0.67</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>402-7515819-6096341</AmazonOrderID>
+      <MerchantOrderID>402-7515819-6096341</MerchantOrderID>
+      <PurchaseDate>2025-10-19T17:54:43+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:11+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55730145341762</AmazonOrderItemCode>
+        <ASIN>B07CN6PYQ1</ASIN>
+        <SKU>OTC-26214131-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Eucerin Sun Sensitive Protect Facial Sunscreen, High UVA/UVB Protection, SPF 50+, Water-Resistant, Fragrance-Free, Sun Protection For Sensitive and Dr</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">72.95</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>402-9446762-6678713</AmazonOrderID>
+      <MerchantOrderID>402-9446762-6678713</MerchantOrderID>
+      <PurchaseDate>2025-10-19T17:46:05+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:04+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55725475750522</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">33.03</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>403-0121813-4052310</AmazonOrderID>
+      <MerchantOrderID>403-0121813-4052310</MerchantOrderID>
+      <PurchaseDate>2025-10-19T17:41:12+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:56+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>دبي</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55725464035042</AmazonOrderItemCode>
+        <ASIN>B0CMGHGXZ1</ASIN>
+        <SKU>OTC-01900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino EMBEAUTY Premium Touch Hair Mask treatment, 230g</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">42.43</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">5.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-1760752-0216321</AmazonOrderID>
+      <MerchantOrderID>171-1760752-0216321</MerchantOrderID>
+      <PurchaseDate>2025-10-19T17:04:48+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:58+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Abu Dhabi</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55729188319602</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">33.03</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.5</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.5</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>408-3505928-2672351</AmazonOrderID>
+      <MerchantOrderID>408-3505928-2672351</MerchantOrderID>
+      <PurchaseDate>2025-10-19T16:57:03+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:15+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55727407915162</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">33.03</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">10.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>402-4747415-2660359</AmazonOrderID>
+      <MerchantOrderID>402-4747415-2660359</MerchantOrderID>
+      <PurchaseDate>2025-10-19T16:49:27+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:13+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>دبي</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55730758803082</AmazonOrderItemCode>
+        <ASIN>B01DDW75EA</ASIN>
+        <SKU>OTC-26214074</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>AXIS-Y Complete No-Stress Physical Sunscreen V3 50ml - SPF 50 Mineral Sunscreen with 2% Niacinamide, Zinc Oxide Sunblock for Broad Spectrum Sun Care -</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">64.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">5.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>5.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>404-2928162-7154712</AmazonOrderID>
+      <MerchantOrderID>404-2928162-7154712</MerchantOrderID>
+      <PurchaseDate>2025-10-19T16:32:25+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:07+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Sharjah</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55727254576642</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>3</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">99.09</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">10.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>404-5274171-0307536</AmazonOrderID>
+      <MerchantOrderID>404-5274171-0307536</MerchantOrderID>
+      <PurchaseDate>2025-10-19T16:31:37+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:07+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55729479406162</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>405-9489032-1228341</AmazonOrderID>
+      <MerchantOrderID>405-9489032-1228341</MerchantOrderID>
+      <PurchaseDate>2025-10-19T16:19:22+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:25+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Sharjah</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55729623721402</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">33.03</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>408-3578500-2956305</AmazonOrderID>
+      <MerchantOrderID>408-3578500-2956305</MerchantOrderID>
+      <PurchaseDate>2025-10-19T16:00:34+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:14+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>الفجيرة</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55724948073082</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>2</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">66.06</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.5</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.5</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>405-9165867-5594746</AmazonOrderID>
+      <MerchantOrderID>405-9165867-5594746</MerchantOrderID>
+      <PurchaseDate>2025-10-19T15:50:19+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:10+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Sharjah</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55728694732202</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">33.03</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">3.33</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>3.33</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>404-6763474-6533963</AmazonOrderID>
+      <MerchantOrderID>404-6763474-6533963</MerchantOrderID>
+      <PurchaseDate>2025-10-19T15:20:18+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T16:21:53+00:00</LastUpdatedDate>
+      <OrderStatus>Cancelled</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55726603865042</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Cancelled</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>0</Quantity>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>402-5052163-7157946</AmazonOrderID>
+      <MerchantOrderID>402-5052163-7157946</MerchantOrderID>
+      <PurchaseDate>2025-10-19T15:17:04+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:00+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Al Ain</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55726616927602</AmazonOrderItemCode>
+        <ASIN>B0CH3HN88N</ASIN>
+        <SKU>OTC-26214139</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Hair Mask Argan Oil Coconut Oil Essence for Dry Damaged Hair All Hair Types 16.90 Fl oz 500m</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">1.66</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>1.66</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>405-9252282-9119548</AmazonOrderID>
+      <MerchantOrderID>405-9252282-9119548</MerchantOrderID>
+      <PurchaseDate>2025-10-19T14:05:28+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:10+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55723594187282</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>406-8425211-7770707</AmazonOrderID>
+      <MerchantOrderID>406-8425211-7770707</MerchantOrderID>
+      <PurchaseDate>2025-10-19T14:00:09+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:46+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55725905076042</AmazonOrderItemCode>
+        <ASIN>B0DZVK9VDH</ASIN>
+        <SKU>OTC-49003553</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Elica M Cream 30g</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">34.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">3.34</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>3.34</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-6921182-7653908</AmazonOrderID>
+      <MerchantOrderID>171-6921182-7653908</MerchantOrderID>
+      <PurchaseDate>2025-10-19T12:07:55+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:08+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>الفجيرة</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55719516144482</AmazonOrderItemCode>
+        <ASIN>B01DDW75EA</ASIN>
+        <SKU>OTC-26214074</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>AXIS-Y Complete No-Stress Physical Sunscreen V3 50ml - SPF 50 Mineral Sunscreen with 2% Niacinamide, Zinc Oxide Sunblock for Broad Spectrum Sun Care -</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">59.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>403-6081785-8207550</AmazonOrderID>
+      <MerchantOrderID>403-6081785-8207550</MerchantOrderID>
+      <PurchaseDate>2025-10-19T11:33:02+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:51+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>عجمان</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55718690162642</AmazonOrderItemCode>
+        <ASIN>B0BYSS2TBF</ASIN>
+        <SKU>OTC-0797725765788-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>JANGOU 2PCS Natural Herbal Hemorrhoids Spray - Internal and External Hemorrhoids Treatment Spray, Anal Soothing Spray, Hemorrhoid Relief Cream, Fast R</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">40.0</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">10.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>408-5839759-4320303</AmazonOrderID>
+      <MerchantOrderID>408-5839759-4320303</MerchantOrderID>
+      <PurchaseDate>2025-10-19T11:25:24+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:12+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Abu Dhabi</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55718062569322</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">35.96</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>404-6719017-3398725</AmazonOrderID>
+      <MerchantOrderID>404-6719017-3398725</MerchantOrderID>
+      <PurchaseDate>2025-10-19T11:13:37+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T12:14:11+00:00</LastUpdatedDate>
+      <OrderStatus>Cancelled</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55718092485122</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Cancelled</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>0</Quantity>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>403-7735723-5817919</AmazonOrderID>
+      <MerchantOrderID>403-7735723-5817919</MerchantOrderID>
+      <PurchaseDate>2025-10-19T10:26:41+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T11:28:37+00:00</LastUpdatedDate>
+      <OrderStatus>Cancelled</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55717558397602</AmazonOrderItemCode>
+        <ASIN>B07BFRFLYX</ASIN>
+        <SKU>OTC-26214126</SKU>
+        <ItemStatus>Cancelled</ItemStatus>
+        <ProductName>Eucerin Photoaging Control Face Sun Fluid LSF 30, 50 ml Solution</ProductName>
+        <Quantity>0</Quantity>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>402-5580836-2229158</AmazonOrderID>
+      <MerchantOrderID>402-5580836-2229158</MerchantOrderID>
+      <PurchaseDate>2025-10-19T10:24:39+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T10:24:57+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Sharjah</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55713654354442</AmazonOrderItemCode>
+        <ASIN>B0CMGHGXZ1</ASIN>
+        <SKU>OTC-01900098</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>Fino EMBEAUTY Premium Touch Hair Mask treatment, 230g</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">42.43</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>406-7978518-1296345</AmazonOrderID>
+      <MerchantOrderID>406-7978518-1296345</MerchantOrderID>
+      <PurchaseDate>2025-10-19T10:15:34+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:57+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Abu Dhabi</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55709232681682</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-5893803-9376362</AmazonOrderID>
+      <MerchantOrderID>171-5893803-9376362</MerchantOrderID>
+      <PurchaseDate>2025-10-19T10:00:43+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:47:11+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>دبي</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55713555862122</AmazonOrderItemCode>
+        <ASIN>B01DDW75EA</ASIN>
+        <SKU>OTC-26214074</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>AXIS-Y Complete No-Stress Physical Sunscreen V3 50ml - SPF 50 Mineral Sunscreen with 2% Niacinamide, Zinc Oxide Sunblock for Broad Spectrum Sun Care -</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">59.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">10.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-2331196-8790768</AmazonOrderID>
+      <MerchantOrderID>171-2331196-8790768</MerchantOrderID>
+      <PurchaseDate>2025-10-19T09:32:10+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:48:19+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55715973803242</AmazonOrderItemCode>
+        <ASIN>B0CMGHGXZ1</ASIN>
+        <SKU>OTC-01900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino EMBEAUTY Premium Touch Hair Mask treatment, 230g</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">42.43</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">3.33</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>3.33</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>403-1911114-8434741</AmazonOrderID>
+      <MerchantOrderID>403-1911114-8434741</MerchantOrderID>
+      <PurchaseDate>2025-10-19T08:30:45+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:49:33+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Abu Dhabi</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55714341731442</AmazonOrderItemCode>
+        <ASIN>B00OZ84ETQ</ASIN>
+        <SKU>OTC-1900031</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>COSRX Advanced Snail 92 All in One Cream 100 ml</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">65.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">1.67</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>1.67</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>406-5347629-2037938</AmazonOrderID>
+      <MerchantOrderID>406-5347629-2037938</MerchantOrderID>
+      <PurchaseDate>2025-10-19T07:45:59+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-20T10:46:50+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Umm Al Quwain</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55710836240282</AmazonOrderItemCode>
+        <ASIN>B0BYSS2TBF</ASIN>
+        <SKU>OTC-0797725765788-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>JANGOU 2PCS Natural Herbal Hemorrhoids Spray - Internal and External Hemorrhoids Treatment Spray, Anal Soothing Spray, Hemorrhoid Relief Cream, Fast R</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">40.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>404-8123601-9645914</AmazonOrderID>
+      <MerchantOrderID>404-8123601-9645914</MerchantOrderID>
+      <PurchaseDate>2025-10-19T07:03:00+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T14:46:17+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Abu Dhabi</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55712488717602</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">35.96</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>405-3770966-7757122</AmazonOrderID>
+      <MerchantOrderID>405-3770966-7757122</MerchantOrderID>
+      <PurchaseDate>2025-10-19T06:53:10+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T10:07:52+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55712321206642</AmazonOrderItemCode>
+        <ASIN>B0CH3HN88N</ASIN>
+        <SKU>OTC-26214139</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Hair Mask Argan Oil Coconut Oil Essence for Dry Damaged Hair All Hair Types 16.90 Fl oz 500m</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>404-6126805-3093151</AmazonOrderID>
+      <MerchantOrderID>404-6126805-3093151</MerchantOrderID>
+      <PurchaseDate>2025-10-19T06:20:59+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T19:36:13+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>أبوظبي</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55712284263562</AmazonOrderItemCode>
+        <ASIN>B0BYSS2TBF</ASIN>
+        <SKU>OTC-0797725765788-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>JANGOU 2PCS Natural Herbal Hemorrhoids Spray - Internal and External Hemorrhoids Treatment Spray, Anal Soothing Spray, Hemorrhoid Relief Cream, Fast R</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">40.0</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">5.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>5.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>406-1625934-9156331</AmazonOrderID>
+      <MerchantOrderID>406-1625934-9156331</MerchantOrderID>
+      <PurchaseDate>2025-10-19T06:16:28+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T13:18:27+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55711707218242</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-2599498-4650739</AmazonOrderID>
+      <MerchantOrderID>171-2599498-4650739</MerchantOrderID>
+      <PurchaseDate>2025-10-19T05:04:27+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T10:07:47+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Sharjah</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55708294735002</AmazonOrderItemCode>
+        <ASIN>B0CH3HN88N</ASIN>
+        <SKU>OTC-26214139</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Hair Mask Argan Oil Coconut Oil Essence for Dry Damaged Hair All Hair Types 16.90 Fl oz 500m</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>406-5782733-8728355</AmazonOrderID>
+      <MerchantOrderID>406-5782733-8728355</MerchantOrderID>
+      <PurchaseDate>2025-10-19T04:23:02+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T12:39:54+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55707416827242</AmazonOrderItemCode>
+        <ASIN>B074NCBXCT</ASIN>
+        <SKU>OTC-49066783</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>CLEAR EYES DROPS TRIPLE ACTION</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">39.0</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.5</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.5</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>403-0284022-7933175</AmazonOrderID>
+      <MerchantOrderID>403-0284022-7933175</MerchantOrderID>
+      <PurchaseDate>2025-10-19T03:49:21+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T13:22:31+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55707196040322</AmazonOrderItemCode>
+        <ASIN>B0BBR3CYB8</ASIN>
+        <SKU>OTC-1900002</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Beauty of Joseon Green Plum AHA BHA Toner Refreshing Facial Essence Moisturizer Mild Exfoliating Salicylic Acid for All Skin Types, Korean Skin Care f</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">64.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-3762702-6062731</AmazonOrderID>
+      <MerchantOrderID>171-3762702-6062731</MerchantOrderID>
+      <PurchaseDate>2025-10-18T21:57:57+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T12:16:41+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55704401915282</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">35.96</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">5.0</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>406-1447830-4410736</AmazonOrderID>
+      <MerchantOrderID>406-1447830-4410736</MerchantOrderID>
+      <PurchaseDate>2025-10-18T20:57:55+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T17:36:46+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55697462968922</AmazonOrderItemCode>
+        <ASIN>B0CP9CGWNN</ASIN>
+        <SKU>OTC-26214139-1</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Karseell Collagen Hair Treatment Deep Repair Conditioning Argan Oil Collagen Hair Mask Essence for Hair All Hair Types 16.90 oz</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">57.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>171-2713478-3701945</AmazonOrderID>
+      <MerchantOrderID>171-2713478-3701945</MerchantOrderID>
+      <PurchaseDate>2025-10-18T20:54:38+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T21:23:29+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55698865681002</AmazonOrderItemCode>
+        <ASIN>B000FQNPD8</ASIN>
+        <SKU>OTC-1900098</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Fino Shiseido Premium Touch Hair Mask, 8.11 Ounce</ProductName>
+        <Quantity>2</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">71.92</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">2.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>2.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>405-7977478-3794764</AmazonOrderID>
+      <MerchantOrderID>405-7977478-3794764</MerchantOrderID>
+      <PurchaseDate>2025-10-18T20:23:33+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T10:07:46+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55702993473122</AmazonOrderItemCode>
+        <ASIN>B0DZVK9VDH</ASIN>
+        <SKU>OTC-49003553</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Elica M Cream 30g</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">34.99</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="AED">10.0</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+           <ShipPromotionDiscount>10.0</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>402-7395863-8577901</AmazonOrderID>
+      <MerchantOrderID>402-7395863-8577901</MerchantOrderID>
+      <PurchaseDate>2025-10-18T20:05:16+00:00</PurchaseDate>
+      <LastUpdatedDate>2025-10-19T10:07:52+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.ae</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>NextDay</ShipServiceLevel>
+         <Address>
+            <City>Dubai</City>
+            <PostalCode></PostalCode>
+            <Country>AE</Country>
+         </Address>
+     </FulfillmentData>
+     <OrderItem>
+        <AmazonOrderItemCode>55697291819362</AmazonOrderItemCode>
+        <ASIN>B07PY4GJFY</ASIN>
+        <SKU>OTC-43609418</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Hexigel Antiseptic Mouth Gel (15g)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="AED">19.99</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+</AmazonEnvelope>
